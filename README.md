@@ -19,3 +19,5 @@ I'm Vaibhav Balloli, researcher at Distributed Algorithm and Systems Lab, under 
 You can know more about me, my work, blog posts and tutorials on my [website](https://vballoli.github.io) or connect with me on [Twitter](https://twitter.com/v_balloli) or [Linkedin](https://www.linkedin.com/in/vaibhavballoli/) to discuss any of my work or topics which [Lex Fridman](https://www.youtube.com/user/lexfridman) hosts his podcast on!!
 
 ![Vaibhav's GitHub stats](https://github-readme-stats.vercel.app/api?username=vballoli&count_private=true&show_icons=true)
+
+![Visitor Count](https://profile-counter.glitch.me/vballoli/count.svg)
