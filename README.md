@@ -14,10 +14,8 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-I'm Vaibhav Balloli, researcher at Distributed Algorithm and Systems Lab, under Dr. Dan Alistarh at IST Austria. I often contribute to [Swift For TensorFlow](https://github.com/tensorflow/swift-apis) and their [model repostiory](https://github.com/tensorflow/swift-models), [PyTorch](http://pytorch.org/), Google [JAX](https://github.com/google/jax) & [Flax](https://github.com/google/flax), Adap's [Flower](https://github.com/adap/flower/) - Federated Learning library. 
+I'm Vaibhav Balloli, SCAI Research Fellow at Microsoft Research, Bengaluru. I often contribute to Open Source. Currently working on interesection of Computer Vision | RL | Systems. 
 
 You can know more about me, my work, blog posts and tutorials on my [website](https://vballoli.github.io) or connect with me on [Twitter](https://twitter.com/v_balloli) or [Linkedin](https://www.linkedin.com/in/vaibhavballoli/) to discuss any of my work or topics which [Lex Fridman](https://www.youtube.com/user/lexfridman) hosts his podcast on!!
 
 ![Vaibhav's GitHub stats](https://github-readme-stats.vercel.app/api?username=vballoli&count_private=true&show_icons=true)
-
-![Visitor Count](https://profile-counter.glitch.me/vballoli/count.svg)
